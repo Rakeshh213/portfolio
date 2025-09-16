@@ -17,6 +17,8 @@ File: `clock.html`
 ## 🧮 Calculator Project
 A simple calculator that performs basic operations (addition, subtraction, multiplication, division).  
 
+![calculator Screenshot](calculator.png)
+
 File: `calculator.2.html`
 
 ---
