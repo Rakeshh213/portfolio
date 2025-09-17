@@ -1,18 +1,23 @@
- # 🚀 My Portfolio  
+<h1 align="center">🚀 Welcome to My Portfolio 🚀</h1>
 
+<!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=App+Developer;Tech+Enthusiast;Always+Learning;Building+Cool+Projects&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&lines=App+Developer;Tech+Enthusiast;Always+Learning;Building+Cool+Projects" alt="Typing SVG">
   </a>
 </p>
 
-This is my personal portfolio repository where I upload my practice projects.  
-Currently, it includes the following projects:  
+<!-- Bubble animation -->
+<p align="center">
+  <img src="bubbles.svg" alt="Bubbles Animation" width="100%" />
+</p>
 
 ---
 
-## ⏰ Clock Project  
-A digital clock that updates in real time.  
+## 📂 Projects  
+
+### ⏰ Clock Project  
+⏱️ A digital clock that updates in real time.  
 
 ![Clock Screenshot](clock.png)  
 
@@ -20,8 +25,8 @@ File: `clock.html`
 
 ---
 
-## 🧮 Calculator Project  
-A simple calculator that performs basic operations (**addition, subtraction, multiplication, division**).  
+### 🧮 Calculator Project  
+🧾 A simple calculator that performs basic operations (**addition, subtraction, multiplication, division**).  
 
 ![Calculator Screenshot](calculator.png)  
 
@@ -50,6 +55,3 @@ File: `calculator.2.html`
 ---
 
 ⭐ From [rakeshh213](https://github.com/rakeshh213)
-
- 
- 
