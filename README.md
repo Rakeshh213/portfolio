@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to My Portfolio 🚀</h1>
+£<h1 align="center">🚀 Welcome to My Portfolio 🚀</h1>
 
 <!-- Typing animation -->
 <p align="center">
