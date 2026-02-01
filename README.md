@@ -9,7 +9,7 @@
 
 <!-- Bubble animation -->
 <p align="center">
-  <img src="bubbles.svg" alt="Bubbles Animation" width="100%" />
+  <img src="https://www.vecteezy.com/video/1623379-bubbles-blue-background-loop alt=bubble img />
 </p>
 
 ---
